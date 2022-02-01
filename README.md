@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kyle
 - 👀 I’m interested in cryptography, network security, and appliction security
 - 🌱 I’m currently learning penetration testing tools and designing modern crypto
-- 🎵 I’m currently listening to Indie Rock, Electronic, and Rap/Hip-hop
+- 🎵 I’m currently listening to Indie Rock, Techno, and Rap/Hip-hop
 - 🗣 My favorite number is: 65537
 
 <!---
