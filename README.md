@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kyle
 - 👀 I’m interested in cryptography, network security, and appliction security
-- 🌱 I’m currently working from 127.0.0.1
+- 🌱 Working from 127.0.0.1
 - 🎵 I enjoy listening to Rock, Techno, and Rap/Hip-hop
 - 🗣 My favorite number is: 65537
 
